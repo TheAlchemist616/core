@@ -2,9 +2,7 @@ package v15
 
 import (
 	store "cosmossdk.io/store/types"
-
 	"github.com/classic-terra/core/v4/app/upgrades"
-
 	packetforwardtypes "github.com/cosmos/ibc-apps/middleware/packet-forward-middleware/v10/packetforward/types"
 )
 
